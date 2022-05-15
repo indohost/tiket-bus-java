@@ -1,11 +1,11 @@
 # tiket-bus-java
 
 System Requirements
-  *OS: Windows, Linux
-  *jdk 8
+  <br>- OS: Windows, Linux
+  <br>- jdk 8
   
 Action
-  *Menambahkan Data Tiket Bus
-  *Edit Data Tiket Bus
-  *Delete Data Tiket Bus
-  *View Data Tiket Bus
+  <br>- Menambahkan Data Tiket Bus
+  <br>- Edit Data Tiket Bus
+  <br>- Delete Data Tiket Bus
+  <br>- View Data Tiket Bus
